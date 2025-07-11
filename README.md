@@ -50,6 +50,8 @@ Además de los métodos principales, la clase incluye métodos adicionales dise�
 
 ---
 
-## 👩‍💻 Autoría
+## 👩‍💻 Autora
 
-Desarrollado por **irurme (Irantzu Urkiola)**  como parte del Bootcamp de Data Analyst.
+- **Nombre**: Irantzu Urkiola - irurme
+- **Curso**: Adalab - Data Analyst (promor 52 - Julia Salander)
+- **Módulo**: 1 - Fundamentos Python
