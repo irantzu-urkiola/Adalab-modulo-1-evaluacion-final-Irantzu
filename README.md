@@ -52,6 +52,6 @@ Además de los métodos principales, la clase incluye métodos adicionales dise�
 
 ## 👩‍💻 Autora
 
-- **Nombre**: Irantzu Urkiola - irurme
+- **Nombre**: Irantzu Urkiola 
 - **Curso**: Adalab - Data Analyst (promor 52 - Julia Salander)
 - **Módulo**: 1 - Fundamentos Python
